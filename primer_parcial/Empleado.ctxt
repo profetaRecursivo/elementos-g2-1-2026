@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Empleado
+comment1.params=tipo
+comment1.target=Empleado(java.lang.String)
+comment2.params=
+comment2.target=double\ calcularSalario()
+numComments=3
