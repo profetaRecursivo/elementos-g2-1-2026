@@ -9,5 +9,4 @@ public class EmpleadoPlanta extends Empleado{
         double salario = salarioBase;
         return salario;
     }
-
 }
