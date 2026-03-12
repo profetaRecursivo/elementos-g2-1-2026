@@ -13,4 +13,8 @@ public class Ruta
     public ArrayList<Sitio> getSitios(){
         return sitios;
     }
+    
+    public void setSitios(ArrayList<Sitio> nuevo){
+        this.sitios = nuevo;
+    }
 }
